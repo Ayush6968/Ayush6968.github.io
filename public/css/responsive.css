@@ -1,0 +1,350 @@
+@media only screen and (max-width:1510px){
+    .firstbgimage {
+        width: 1510px;
+        height: 1000px;
+}
+.blkbground{
+    width: 1510px;
+}
+.bgimage{
+    width: 1510px;
+}
+
+.whitebground{
+    width: 1510px;
+}
+.customer-reviews{
+    width: 1510px;
+}
+.theroom{
+    width: 1510px;
+}
+.video{
+    width: 1510px;
+}
+
+.blackbackground{
+    width: 1510px;
+}
+
+}
+
+@media only screen and (max-width:1000px){
+.btnbox{
+    height: 86px;
+    width: 204px;
+    font-size: 20px;
+    
+
+}
+.btntext{
+    font-size: 18.5px;
+}
+#booknow{
+    height: 88.5px;
+    width: 195px;
+    font-size: 22px;
+    margin-top: 22px;}
+
+.logo{
+    
+    margin-left: 30px;
+    width: 7%;
+
+ 
+}
+.logoimg{
+    height: 146px;
+    width: 140px;
+}
+
+/* .navbarheadings{
+    position: relative;
+    right: -554px;
+    margin-top: 30px;
+} */
+li{
+    padding: 25px;
+
+}
+.navbarheadings ul li a{
+    font-size: 26px;
+     
+}
+}
+@media only screen and (max-width:650px){
+   
+    .navbarheadings ul{
+     
+        margin-top: 30px;
+     
+    }
+    .navbarheadings{
+        width: 85%;
+    }
+    .btnbox{
+        height: 138px;
+        width: 300px;
+        font-size: 35px;
+    }
+    #booknow2{
+        display: block;
+        margin-top: 0px;
+        width: 60%;
+        height: 161px;
+        margin-left: 301px;
+        font-size: 50px;
+        letter-spacing: 8px;
+    }
+
+   
+    .btntext{
+        font-size:26.5px;
+    }
+    #booknow{
+       position: relative;
+       top: 160px;
+       left: -461px;
+       display: none;
+    }
+    .btntext{
+        font-size: 18.5px;
+    }
+    #btn3{
+    
+        border-right: 2px solid white;
+    }
+    .btn{
+       
+        width: 900px;
+        margin: auto;
+    }
+
+
+
+
+    /* second page css */
+    .blkbground{
+    
+        height: 225px;
+    }
+    .heading h1{
+        font-size: 3.5rem;
+    }
+    .heading p{
+        margin-top: 15px;
+        font-size: 35px;
+    }
+    .textheadings{
+        display: block;
+        width: 80%;
+        height: 900px;
+       margin: auto;
+       text-align: center;
+    }
+    .bgimage{
+        height: 941px;
+      
+    }
+    .left{
+        display: block;
+        width: auto;
+        height: 300px;
+    }
+    .right{
+        display: block;
+        width: auto;
+        height: 300px;
+    }
+    .center{
+        display: block;
+        width: auto;
+        height: 300px;
+    }
+    
+    .textheadings h1{
+    margin-bottom: 40px;
+    font-size: 4rem;
+    }
+    .textheadings p{
+    font-size: 40px;
+    }
+
+
+
+    /* customer reviews */
+    .customer-reviews {
+        height: 4400px;}
+
+
+    .firstboxes{
+        display: block;
+        height: auto;
+    
+        /* width: 20%; */
+      
+    }
+    .secondboxes{
+        display: block;
+      
+        height: auto;
+        margin-top: 79px;
+
+    }
+    #secondbox1{
+        display: none;
+    }
+    #secondbox2{
+      margin: auto;
+ 
+      width:900px;
+      height: 900px;
+
+    }
+    #secondbox3{
+        margin: auto;
+    
+        width:900px;
+        height: 900px;
+
+    }
+    .secondbox1{
+        margin-top: 0px;
+        height: auto;
+    
+    }
+    #firstbox1{
+        width: 80%;
+        margin: auto;
+      
+        text-align: center;
+        height: 500px;
+    }
+    #firstbox2{
+       
+        margin: auto;
+   
+        width:900px;
+        height: 900px;
+    }
+    #firstbox3{
+      
+        margin: auto;
+        width:900px;
+        height: 900px;
+    }
+    .pands{
+
+        font-size: 130px;
+    }
+    .h2{
+        margin-top: 18px;
+        font-size: 5.5rem;
+     
+    }
+    .loremtext{
+        margin-top: -2px;
+        font-size: 47px;
+    }
+  
+    .firstbox1 img{
+        height: 598px;
+        width: 898px;
+        
+    }
+    .secondbox1 img{
+        height: 598px;
+        width: 898px;
+        
+    }
+    .textpandr{
+        margin-top: 30px;
+        font-size: 3rem;
+    }
+    .textpandr .name{
+        margin-top: 8px;
+        font-size: 30px;
+    }
+    .textpandr2{
+        margin-top: 30px;
+        font-size: 3rem;
+    }
+     .name2{
+        margin-top: 8px;
+        font-size: 30px;
+    }
+
+
+    /* got the room */
+    .theroomtext{
+        box-sizing: border-box;
+        height: 293px;
+        margin-top: 10px;
+        padding-left: 40px;
+        padding-top: 50px;
+        padding-right: 10px;
+        font-family: 'Oswald', sans-serif;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+    
+    }
+    .theroomtext h3{
+        font-size: 4.2rem;
+    font-weight: lighter;
+    opacity: 0.8;}
+    
+    .theroomtext h1{
+        margin-top: 28px;
+        font-size: 4.5rem;
+        font-weight: bold;
+        letter-spacing: 1px;
+    }
+    .theroomtext p{
+        margin-top: 36px;
+        font-size: 31px;
+    
+    
+    }
+
+    .topheading{
+        text-align: center;
+        margin-top: 100px;
+        font-size: 5.5rem;
+        font-weight: bold;
+    }
+
+
+
+    /* Css for the video */
+
+
+    
+    .textforvideo{
+   
+        width: 50%;
+        margin: auto;
+        text-align: center;
+        position: relative;
+        top: 400px;
+        color: white;
+     
+    }
+    .textforvideo p{
+        font-size:3.5rem
+    }
+    .textforvideo h1{
+        margin-top: 30px;
+        font-size: 2.5rem;
+    }
+    .video{
+       
+        height: 853px;
+        overflow: hidden;
+        
+
+    }
+}
+
+
+
+
+
